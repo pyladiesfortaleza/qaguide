@@ -3,4 +3,4 @@
 
 <h2>Como começar?</h2>
 
-<a href='https://www.youtube.com/watch?v=irIHzYtWl7E&t=1894s&ab_channel=AguiarDevTalks'><p>Roadmap QA - Aguiar Dev Talks #24</p></a>
+<a href='https://www.youtube.com/watch?v=irIHzYtWl7E&t=1894s&ab_channel=AguiarDevTalks'>Roadmap QA - Aguiar Dev Talks #24</a>
